@@ -129,6 +129,126 @@ OpenGL_GLFW_GLAD_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build
 .PHONY : OpenGL_GLFW_GLAD_Project/fast
 
+src/IndexBufferObject.o: src/IndexBufferObject.cpp.o
+.PHONY : src/IndexBufferObject.o
+
+# target to build an object file
+src/IndexBufferObject.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o
+.PHONY : src/IndexBufferObject.cpp.o
+
+src/IndexBufferObject.i: src/IndexBufferObject.cpp.i
+.PHONY : src/IndexBufferObject.i
+
+# target to preprocess a source file
+src/IndexBufferObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.i
+.PHONY : src/IndexBufferObject.cpp.i
+
+src/IndexBufferObject.s: src/IndexBufferObject.cpp.s
+.PHONY : src/IndexBufferObject.s
+
+# target to generate assembly for a file
+src/IndexBufferObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.s
+.PHONY : src/IndexBufferObject.cpp.s
+
+src/Line.o: src/Line.cpp.o
+.PHONY : src/Line.o
+
+# target to build an object file
+src/Line.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o
+.PHONY : src/Line.cpp.o
+
+src/Line.i: src/Line.cpp.i
+.PHONY : src/Line.i
+
+# target to preprocess a source file
+src/Line.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.i
+.PHONY : src/Line.cpp.i
+
+src/Line.s: src/Line.cpp.s
+.PHONY : src/Line.s
+
+# target to generate assembly for a file
+src/Line.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.s
+.PHONY : src/Line.cpp.s
+
+src/Square.o: src/Square.cpp.o
+.PHONY : src/Square.o
+
+# target to build an object file
+src/Square.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o
+.PHONY : src/Square.cpp.o
+
+src/Square.i: src/Square.cpp.i
+.PHONY : src/Square.i
+
+# target to preprocess a source file
+src/Square.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.i
+.PHONY : src/Square.cpp.i
+
+src/Square.s: src/Square.cpp.s
+.PHONY : src/Square.s
+
+# target to generate assembly for a file
+src/Square.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.s
+.PHONY : src/Square.cpp.s
+
+src/VertexArrayObject.o: src/VertexArrayObject.cpp.o
+.PHONY : src/VertexArrayObject.o
+
+# target to build an object file
+src/VertexArrayObject.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o
+.PHONY : src/VertexArrayObject.cpp.o
+
+src/VertexArrayObject.i: src/VertexArrayObject.cpp.i
+.PHONY : src/VertexArrayObject.i
+
+# target to preprocess a source file
+src/VertexArrayObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.i
+.PHONY : src/VertexArrayObject.cpp.i
+
+src/VertexArrayObject.s: src/VertexArrayObject.cpp.s
+.PHONY : src/VertexArrayObject.s
+
+# target to generate assembly for a file
+src/VertexArrayObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.s
+.PHONY : src/VertexArrayObject.cpp.s
+
+src/VertexBufferObject.o: src/VertexBufferObject.cpp.o
+.PHONY : src/VertexBufferObject.o
+
+# target to build an object file
+src/VertexBufferObject.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o
+.PHONY : src/VertexBufferObject.cpp.o
+
+src/VertexBufferObject.i: src/VertexBufferObject.cpp.i
+.PHONY : src/VertexBufferObject.i
+
+# target to preprocess a source file
+src/VertexBufferObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.i
+.PHONY : src/VertexBufferObject.cpp.i
+
+src/VertexBufferObject.s: src/VertexBufferObject.cpp.s
+.PHONY : src/VertexBufferObject.s
+
+# target to generate assembly for a file
+src/VertexBufferObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.s
+.PHONY : src/VertexBufferObject.cpp.s
+
 src/glad.o: src/glad.c.o
 .PHONY : src/glad.o
 
@@ -177,6 +297,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/shaderClass.o: src/shaderClass.cpp.o
+.PHONY : src/shaderClass.o
+
+# target to build an object file
+src/shaderClass.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o
+.PHONY : src/shaderClass.cpp.o
+
+src/shaderClass.i: src/shaderClass.cpp.i
+.PHONY : src/shaderClass.i
+
+# target to preprocess a source file
+src/shaderClass.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.i
+.PHONY : src/shaderClass.cpp.i
+
+src/shaderClass.s: src/shaderClass.cpp.s
+.PHONY : src/shaderClass.s
+
+# target to generate assembly for a file
+src/shaderClass.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.s
+.PHONY : src/shaderClass.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +330,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... OpenGL_GLFW_GLAD_Project"
+	@echo "... src/IndexBufferObject.o"
+	@echo "... src/IndexBufferObject.i"
+	@echo "... src/IndexBufferObject.s"
+	@echo "... src/Line.o"
+	@echo "... src/Line.i"
+	@echo "... src/Line.s"
+	@echo "... src/Square.o"
+	@echo "... src/Square.i"
+	@echo "... src/Square.s"
+	@echo "... src/VertexArrayObject.o"
+	@echo "... src/VertexArrayObject.i"
+	@echo "... src/VertexArrayObject.s"
+	@echo "... src/VertexBufferObject.o"
+	@echo "... src/VertexBufferObject.i"
+	@echo "... src/VertexBufferObject.s"
 	@echo "... src/glad.o"
 	@echo "... src/glad.i"
 	@echo "... src/glad.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/shaderClass.o"
+	@echo "... src/shaderClass.i"
+	@echo "... src/shaderClass.s"
 .PHONY : help
 
 

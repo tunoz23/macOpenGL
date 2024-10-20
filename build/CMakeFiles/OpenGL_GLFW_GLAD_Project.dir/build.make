@@ -69,10 +69,80 @@ include CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
 
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o: /Users/tunaozturk/Desktop/projectX/src/IndexBufferObject.cpp
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/IndexBufferObject.cpp
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tunaozturk/Desktop/projectX/src/IndexBufferObject.cpp > CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.i
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/IndexBufferObject.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.s
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o: /Users/tunaozturk/Desktop/projectX/src/Line.cpp
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/Line.cpp
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tunaozturk/Desktop/projectX/src/Line.cpp > CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.i
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/Line.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.s
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o: /Users/tunaozturk/Desktop/projectX/src/Square.cpp
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/Square.cpp
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tunaozturk/Desktop/projectX/src/Square.cpp > CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.i
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/Square.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.s
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o: /Users/tunaozturk/Desktop/projectX/src/VertexArrayObject.cpp
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/VertexArrayObject.cpp
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tunaozturk/Desktop/projectX/src/VertexArrayObject.cpp > CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.i
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/VertexArrayObject.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.s
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o: /Users/tunaozturk/Desktop/projectX/src/VertexBufferObject.cpp
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/VertexBufferObject.cpp
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tunaozturk/Desktop/projectX/src/VertexBufferObject.cpp > CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.i
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/VertexBufferObject.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.s
+
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o: /Users/tunaozturk/Desktop/projectX/src/main.cpp
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/main.cpp
 
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.i: cmake_force
@@ -83,10 +153,24 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/main.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.s
 
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk/Desktop/projectX/src/shaderClass.cpp
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o -c /Users/tunaozturk/Desktop/projectX/src/shaderClass.cpp
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tunaozturk/Desktop/projectX/src/shaderClass.cpp > CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.i
+
+CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tunaozturk/Desktop/projectX/src/shaderClass.cpp -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.s
+
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/flags.make
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o: /Users/tunaozturk/Desktop/projectX/src/glad.c
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o -MF CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o.d -o CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o -c /Users/tunaozturk/Desktop/projectX/src/glad.c
 
 CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.i: cmake_force
@@ -99,19 +183,31 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.s: cmake_force
 
 # Object files for target OpenGL_GLFW_GLAD_Project
 OpenGL_GLFW_GLAD_Project_OBJECTS = \
+"CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o" \
+"CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o" \
+"CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o" \
+"CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o" \
+"CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o" \
 "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o" \
+"CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o" \
 "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o"
 
 # External object files for target OpenGL_GLFW_GLAD_Project
 OpenGL_GLFW_GLAD_Project_EXTERNAL_OBJECTS =
 
+OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o
+OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o
+OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o
+OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o
+OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o
 OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o
+OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o
 OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o
 OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make
 OpenGL_GLFW_GLAD_Project: /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL.tbd
 OpenGL_GLFW_GLAD_Project: /opt/homebrew/lib/libglfw.3.4.dylib
 OpenGL_GLFW_GLAD_Project: CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable OpenGL_GLFW_GLAD_Project"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tunaozturk/Desktop/projectX/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable OpenGL_GLFW_GLAD_Project"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
