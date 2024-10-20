@@ -48,7 +48,16 @@ int main() {
         glfwSetKeyCallback(window, keyCallback);
 
         Shader shader1("default.vert", "default.frag"); // Check for exceptions in Shader class
+        std::vector<std::shared_ptr<Drawable>> draws;
+	
+        for (GLfloat x = -300.f; x < 300.f; x += 10.f)
+        {
+            float tempX = x/400.f;
+            
+            float tempY = tempX*tempX - 10/400.f;
+            draws.push_back(std::make_shared<Square>(tempX, tempY, 30));
 
+        }
         GLuint uniID = glGetUniformLocation(shader1.ID, "sCale");
 
         while (!glfwWindowShouldClose(window)) {
@@ -57,6 +66,10 @@ int main() {
             shader1.Activate();
 
             // Draw your objects here
+            for(const auto& draw : draws)
+            {
+                draw->draw();
+            }
 
             glfwSwapBuffers(window);
             glfwPollEvents();
