@@ -39,6 +39,11 @@ int main()
 	}
 	glfwMakeContextCurrent(window);
 	gladLoadGL();
+    if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress)) {
+    std::cerr << "Failed to initialize GLAD" << std::endl;
+    return -1;
+}
+
 	glViewport(0, 0, 800, 800);
 
 	std::shared_ptr<Line> line1 = std::make_shared<Line>(-1.f, 0.f, 1.f, 0.f);
