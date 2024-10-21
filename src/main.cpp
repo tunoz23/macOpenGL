@@ -54,7 +54,7 @@ int main() {
         {
             float tempX = x/400.f;
             
-            float tempY = tempX*tempX - 10/400.f;
+            float tempY = tempX*tempX + 2*tempX - 10/400.f;
             draws.push_back(std::make_shared<Square>(tempX, tempY, 30));
 
         }
