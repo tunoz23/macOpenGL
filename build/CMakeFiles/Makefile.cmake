@@ -45,6 +45,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/opt/homebrew/lib/cmake/glfw3/glfw3ConfigVersion.cmake"
   "/opt/homebrew/lib/cmake/glfw3/glfw3Targets-release.cmake"
   "/opt/homebrew/lib/cmake/glfw3/glfw3Targets.cmake"
+  "/opt/homebrew/share/glm/glmConfig-release.cmake"
+  "/opt/homebrew/share/glm/glmConfig.cmake"
+  "/opt/homebrew/share/glm/glmConfigVersion.cmake"
   )
 
 # The corresponding makefile is:

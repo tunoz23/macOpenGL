@@ -6,17 +6,10 @@ layout (location = 1) in vec3 aColor;
 
 out vec3 Color;
 
-uniform float sCale; 
-
+uniform mat4 transform;
 void main()
 {
-	vec3 pos = vec3(aPos.x, aPos.y, 0.0);
-	vec3 resultPos = mat3(
-		cos(M_PI/2), -sin(M_PI/2),0.0,
-		sin(M_PI/2), cos(M_PI/2),0.0,
-		0.0, 		0.0,	1.0
-	)
-	*pos;
-	gl_Position = vec4(pos, 1.0);
+	
+	gl_Position = transform * vec4(aPos, 1.0);
 	Color = aColor;
 }

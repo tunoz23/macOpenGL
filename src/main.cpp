@@ -6,6 +6,9 @@ extern "C" {
 }
 #include <GLFW/glfw3.h>
 #include <memory>
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 #include "shaderClass.h"
 #include "VertexBufferObject.h"
@@ -16,7 +19,7 @@ extern "C" {
 #include "Drawable.h"
 #include "Line.h"
 
-static GLfloat scale = 0.1f;
+static GLfloat scale = 0.0f;
 static GLfloat incr = 0.10f;
 
 void keyCallback(GLFWwindow* window, int key, int scancode, int action, int mods);
@@ -49,23 +52,17 @@ int main() {
 
         Shader shader1("default.vert", "default.frag"); // Check for exceptions in Shader class
         std::vector<std::shared_ptr<Drawable>> draws;
-	
-        for (GLfloat x = -300.f; x < 300.f; x += 10.f)
-        {
-            float tempX = x/400.f;
-            
-            float tempY = tempX*tempX + 2*tempX - 10/400.f;
-            draws.push_back(std::make_shared<Square>(tempX, tempY, 30));
-
-        }
-        GLuint uniID = glGetUniformLocation(shader1.ID, "sCale");
+        draws.push_back(std::make_shared<Square>(0.0f,0.0f,0.3f));
+        GLuint uniID = glGetUniformLocation(shader1.ID, "transform");
+        glm::mat4 resultMat = glm::mat4(1.f);
 
         while (!glfwWindowShouldClose(window)) {
             glClearColor(0.03f, 0.10f, 0.12f, 1.0f);
             glClear(GL_COLOR_BUFFER_BIT);
             shader1.Activate();
-
+            resultMat = glm::rotate(resultMat, scale, glm::vec3(0.0f,0.0f,1.0f));
             // Draw your objects here
+            glUniformMatrix4fv(uniID,1,GL_FALSE,glm::value_ptr(resultMat));
             for(const auto& draw : draws)
             {
                 draw->draw();
@@ -90,7 +87,6 @@ int main() {
 void keyCallback(GLFWwindow* window, int key, int scancode, int action, int mods) {
     if (key == GLFW_KEY_SPACE) {
         scale += incr;
-        incr += 0.1f;
         std::cout << "Space pressed. scale is -> " << scale << "\n";
     }
 }

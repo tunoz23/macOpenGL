@@ -4589,6 +4589,262 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o: /Users/tunaozturk/Deskto
   /Users/tunaozturk/Desktop/projectX/include/glad/glad.h \
   /Users/tunaozturk/Desktop/projectX/include/KHR/khrplatform.h \
   /Users/tunaozturk/Desktop/projectX/include/GLFW/glfw3.h \
+  /Users/tunaozturk/Desktop/projectX/include/glm/glm.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/_fixes.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/setup.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cassert \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/assert.h \
+  /Users/tunaozturk/Desktop/projectX/include/glm/simd/platform.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cfloat \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/float.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/float.h \
+  /Users/tunaozturk/Desktop/projectX/include/glm/fwd.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/qualifier.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vec2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec2.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int2_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_int_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/setup.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint2_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_uint_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vec3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_vector_decl.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/_vectorize.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int3_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint3_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vec4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int4_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint4_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat2x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x2.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/matrix.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat2x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x3.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat2x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x4.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat3x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x2.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x3.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_common.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_vector_relational.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec1.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat3x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x4.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat4x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x2.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat4x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x3.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x4.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_geometric.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/exponential.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_exponential.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_matrix.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/trigonometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_trigonometric.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/exponential.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/packing.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_packing.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_half.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_half.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/matrix.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/integer.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/func_integer.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/matrix_transform.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vec2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vec3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vec4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_projection.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/constants.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_constants.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_constants.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/constants.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/trigonometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/matrix.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_projection.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_clip_space.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_constants.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_clip_space.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_transform.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_transform.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/matrix_transform.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/trigonometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/matrix.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/type_ptr.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/quaternion.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/constants.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/matrix_transform.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/qualifier.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_float.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/exponential.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_geometric.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_common.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_float.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_quat.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_relational.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/constants.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/matrix_transform.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_quat.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/trigonometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_float_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_double.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_double_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_geometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_trigonometric.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_constants.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_trigonometric.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_transform.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_transform.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/quaternion.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/exponential.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/epsilon.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/setup.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/qualifier.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/epsilon.inl \
+  /Users/tunaozturk/Desktop/projectX/include/glm/vector_relational.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/common.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/vec1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool1_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float1_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double1_precision.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int1_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint1_sized.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint1.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat2x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat2x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat2x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat3x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat3x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat3x4.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat4x2.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/mat4x3.hpp \
+  /Users/tunaozturk/Desktop/projectX/include/glm/gtc/type_ptr.inl \
   /Users/tunaozturk/Desktop/projectX/src/shaderClass.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/filesystem \
@@ -5445,8 +5701,6 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_options.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/space_info.h:
@@ -5454,8 +5708,6 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/perm_options.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/operations.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/path.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h:
 
@@ -5465,17 +5717,271 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/file_status.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_entry.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/filesystem:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/fstream:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint1.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int1_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int1.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float1_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool1_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool1.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/vec1.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/epsilon.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/quaternion.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_transform.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_trigonometric.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_double_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_double.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_relational.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_relational.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_quat.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_float.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_common.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_geometric.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_float.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_relational.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_transform.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_clip_space.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_clip_space.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_constants.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/matrix_transform.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_half.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_half.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_trigonometric.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x2_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_projection.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_matrix.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x4_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x4.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat4x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x3.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_transform.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x2.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat4x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x4_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x4.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat3x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec1.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_common.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat4x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_vector_relational.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/vector_relational.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_common.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/common.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x3.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat3x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x2.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/path.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x4_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_exponential.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/matrix.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x2.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double2x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat2x2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/quaternion.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint4.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_entry.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int4_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float4_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint3_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool3_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_vector_decl.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/trigonometric.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/vec3.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_uint_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint2_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_int_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int2_sized.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double2_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double2.hpp:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/directory_options.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float2_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_float_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_common.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool2_precision.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/compute_vector_relational.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/vec2.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/qualifier.hpp:
+
+/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/float.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/float.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cfloat:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cassert:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/setup.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/_fixes.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_projection.inl:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/glm.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_nl_item.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_fd_copy.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool4_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_fd_isset.h:
 
@@ -5515,6 +6021,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/types.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double4_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/nl_types.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/iostream:
@@ -5549,6 +6057,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/secure/_strings.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x2_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_wctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/secure/_common.h:
@@ -5560,6 +6070,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/literals.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/file_clock.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h:
 
@@ -5593,6 +6105,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__variant/monostate.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x2_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_mach_port_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/concepts.h:
@@ -5604,6 +6118,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cwchar:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/pthread/qos.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x2_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_is_sorted.h:
 
@@ -5617,9 +6133,13 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/pthread/sched.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/epsilon.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/errno.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__thread/timed_backoff_policy.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/_vectorize.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_aggregate.h:
 
@@ -5652,6 +6172,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_timeval.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_wctrans_t.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__hash_table:
 
@@ -5689,6 +6211,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/convert_to_tm.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/mat3x2.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_move_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/calendar.h:
@@ -5702,6 +6226,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/shift_left.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/type_ptr.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
 
@@ -5726,6 +6252,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/array:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_stable_partition.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x3.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/data.h:
 
@@ -5785,6 +6313,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/vec4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_reverse_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_reverse.h:
@@ -5798,6 +6328,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/utility:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_remove_copy_if.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_push_heap.h:
 
@@ -5825,6 +6357,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_make_heap.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/scalar_constants.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__assert:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_lower_bound.h:
@@ -5837,11 +6371,15 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_remove_if.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/geometric.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap_until.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/sortable.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat4x3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
 
@@ -5860,6 +6398,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/xlocale/_stdio.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double1.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_transform.h:
 
@@ -5959,6 +6499,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/bitset:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int3_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_nlink_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_time_t.h:
@@ -5994,6 +6536,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_swap_ranges.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
 
@@ -6059,6 +6603,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/search.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x3_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_trivially_copy_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/mutex:
@@ -6071,6 +6617,10 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/constants.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x4_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/copy_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/copy_backward.h:
@@ -6078,6 +6628,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__format/format_error.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/clamp.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint4_sized.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/half_positive.h:
 
@@ -6094,6 +6646,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/all_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/size.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_geometric.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__tuple_dir/tuple_like_ext.h:
 
@@ -6161,6 +6715,10 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__utility/cmp.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/quaternion_trigonometric.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_transform.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_fd_def.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__errc:
@@ -6170,6 +6728,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/common_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/typeinfo:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_geometric.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cmath:
 
@@ -6203,11 +6763,17 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_clock_t.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/mat2x4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_va_list.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x4_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/swappable.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/packing.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/runetype.h:
 
@@ -6240,6 +6806,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/streambuf:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_size_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/float.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_equal.h:
 
@@ -6280,6 +6848,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_partition_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_symbol_aliasing.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/integer.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__format/enable_insertable.h:
 
@@ -6387,6 +6957,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/find_if.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x3.hpp:
+
 /Users/tunaozturk/Desktop/projectX/src/IndexBufferObject.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/find.h:
@@ -6409,6 +6981,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x4_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_sigaltstack.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__random/is_valid.h:
@@ -6421,9 +6995,13 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/simd/platform.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_ctermid.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_dev_t.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_int2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__debug:
 
@@ -6444,6 +7022,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/decay.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_always_bitcastable.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_float1.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/locale.h:
 
@@ -6468,6 +7048,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/libkern/_OSByteOrder.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__tuple_dir/tuple_types.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/exponential.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
 
@@ -6507,7 +7089,11 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__memory/shared_ptr.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec1.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double3x2_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/cstddef:
 
@@ -6569,6 +7155,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_trivially_copyable.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/totally_ordered.h:
@@ -6602,6 +7190,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_nothrow_convertible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_abstract.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/fwd.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_literal_type.h:
 
@@ -6639,6 +7229,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/dependent_type.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_vec2.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/signal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/mach/arm/_structs.h:
@@ -6646,6 +7238,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__format/formatter.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x2_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__utility/priority_tag.h:
 
@@ -6658,6 +7252,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/aligned_storage.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_any_of.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_bool2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_core_convertible.h:
 
@@ -6674,6 +7270,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__utility/pair.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat3x2.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/apply_cv.h:
 
@@ -6698,6 +7296,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/AvailabilityInternalLegacy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/relation.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/constants.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__bit/bit_width.h:
 
@@ -6729,6 +7329,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/mach/machine/_structs.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_uint1_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_int8_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/Availability.h:
@@ -6738,6 +7340,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/xlocale/_wctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/matrix_transform.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/make_const_lvalue_ref.h:
 
@@ -6779,6 +7383,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/atomic:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double1_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
 
 /Users/tunaozturk/Desktop/projectX/src/utils.h:
@@ -6797,19 +7403,29 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__filesystem/path_iterator.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float2x3.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_sigset_t.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_quat.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/iterator_operations.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/sstream:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/type_mat2x4.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/is_signed_integer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__chrono/year_month_day.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/assert.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
 
@@ -6840,6 +7456,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__functional/binary_negate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__concepts/class_or_enum.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/vector_double4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/uniform_random_bit_generator_adaptor.h:
 
@@ -6897,6 +7515,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/ranges_mismatch.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_double4x4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/common_reference.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_types/_uintptr_t.h:
@@ -6946,6 +7566,8 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 /Users/tunaozturk/Desktop/projectX/src/Square.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_integer.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/ratio:
 
@@ -7007,11 +7629,17 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/integral_constant.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/gtc/type_ptr.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float3x4.hpp:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/mat2x3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/_types/_uintmax_t.h:
 
@@ -7073,9 +7701,13 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/shaderClass.cpp.o: /Users/tunaozturk
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__type_traits/common_type.h:
 
+/Users/tunaozturk/Desktop/projectX/include/glm/detail/func_packing.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__config:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/sys/_posix_availability.h:
+
+/Users/tunaozturk/Desktop/projectX/include/glm/ext/matrix_float4x3_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
 
