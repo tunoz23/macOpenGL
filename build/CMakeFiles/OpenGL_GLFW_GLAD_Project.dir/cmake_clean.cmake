@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o.d"
   "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o"
   "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o.d"
+  "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.o"
+  "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.o.d"
   "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o"
   "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o.d"
   "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o"

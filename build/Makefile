@@ -177,6 +177,30 @@ src/Line.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.s
 .PHONY : src/Line.cpp.s
 
+src/RectanglePrism.o: src/RectanglePrism.cpp.o
+.PHONY : src/RectanglePrism.o
+
+# target to build an object file
+src/RectanglePrism.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.o
+.PHONY : src/RectanglePrism.cpp.o
+
+src/RectanglePrism.i: src/RectanglePrism.cpp.i
+.PHONY : src/RectanglePrism.i
+
+# target to preprocess a source file
+src/RectanglePrism.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.i
+.PHONY : src/RectanglePrism.cpp.i
+
+src/RectanglePrism.s: src/RectanglePrism.cpp.s
+.PHONY : src/RectanglePrism.s
+
+# target to generate assembly for a file
+src/RectanglePrism.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/build.make CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.s
+.PHONY : src/RectanglePrism.cpp.s
+
 src/Square.o: src/Square.cpp.o
 .PHONY : src/Square.o
 
@@ -336,6 +360,9 @@ help:
 	@echo "... src/Line.o"
 	@echo "... src/Line.i"
 	@echo "... src/Line.s"
+	@echo "... src/RectanglePrism.o"
+	@echo "... src/RectanglePrism.i"
+	@echo "... src/RectanglePrism.s"
 	@echo "... src/Square.o"
 	@echo "... src/Square.i"
 	@echo "... src/Square.s"

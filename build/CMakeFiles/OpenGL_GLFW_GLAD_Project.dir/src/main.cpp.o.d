@@ -1077,4 +1077,5 @@ CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/main.cpp.o: \
   /Users/tunaozturk/Desktop/projectX/src/Square.h \
   /Users/tunaozturk/Desktop/projectX/src/Drawable.h \
   /Users/tunaozturk/Desktop/projectX/src/utils.h \
-  /Users/tunaozturk/Desktop/projectX/src/Line.h
+  /Users/tunaozturk/Desktop/projectX/src/Line.h \
+  /Users/tunaozturk/Desktop/projectX/src/RectanglePrism.h

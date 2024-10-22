@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/tunaozturk/Desktop/projectX/src/glad.c" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/glad.c.o.d"
   "/Users/tunaozturk/Desktop/projectX/src/IndexBufferObject.cpp" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/IndexBufferObject.cpp.o.d"
   "/Users/tunaozturk/Desktop/projectX/src/Line.cpp" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Line.cpp.o.d"
+  "/Users/tunaozturk/Desktop/projectX/src/RectanglePrism.cpp" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/RectanglePrism.cpp.o.d"
   "/Users/tunaozturk/Desktop/projectX/src/Square.cpp" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/Square.cpp.o.d"
   "/Users/tunaozturk/Desktop/projectX/src/VertexArrayObject.cpp" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexArrayObject.cpp.o.d"
   "/Users/tunaozturk/Desktop/projectX/src/VertexBufferObject.cpp" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o" "gcc" "CMakeFiles/OpenGL_GLFW_GLAD_Project.dir/src/VertexBufferObject.cpp.o.d"
