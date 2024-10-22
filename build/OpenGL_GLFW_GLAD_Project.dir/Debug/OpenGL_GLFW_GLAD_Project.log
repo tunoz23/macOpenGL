@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/TUN/Desktop/macopengl1/macOpenGL/CMakeLists.txt
+  IndexBufferObject.cpp
+  Line.cpp
+  RectanglePrism.cpp
+  Square.cpp
+C:\Users\TUN\Desktop\macopengl1\macOpenGL\src\RectanglePrism.cpp(62,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\TUN\Desktop\macopengl1\macOpenGL\src\Square.cpp(42,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  VertexArrayObject.cpp
+C:\Users\TUN\Desktop\macopengl1\macOpenGL\src\VertexArrayObject.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VertexBufferObject.cpp
+  main.cpp
+  shaderClass.cpp
+  Generating Code...
+  glad.c
+  OpenGL_GLFW_GLAD_Project.vcxproj -> C:\Users\TUN\Desktop\macopengl1\macOpenGL\build\Debug\OpenGL_GLFW_GLAD_Project.exe

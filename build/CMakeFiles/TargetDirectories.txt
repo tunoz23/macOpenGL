@@ -1,3 +1,3 @@
-/Users/tunaozturk/Desktop/projectX/build/CMakeFiles/OpenGL_GLFW_GLAD_Project.dir
-/Users/tunaozturk/Desktop/projectX/build/CMakeFiles/edit_cache.dir
-/Users/tunaozturk/Desktop/projectX/build/CMakeFiles/rebuild_cache.dir
+C:/Users/TUN/Desktop/macopengl1/macOpenGL/build/CMakeFiles/OpenGL_GLFW_GLAD_Project.dir
+C:/Users/TUN/Desktop/macopengl1/macOpenGL/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/TUN/Desktop/macopengl1/macOpenGL/build/CMakeFiles/ZERO_CHECK.dir

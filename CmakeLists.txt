@@ -18,13 +18,16 @@ file(GLOB PROJECT_SOURCES "src/*.cpp")
 # Find OpenGL
 find_package(OpenGL REQUIRED)
 
-# Find GLFW
-find_package(glfw3 REQUIRED)
+# Specify the path to GLFW's include directory and library
+set(GLFW_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/include/glfw)
+set(GLFW_LIBRARY ${CMAKE_SOURCE_DIR}/lib/glfw3.lib)
 
-find_package(glm REQUIRED)
+
+# Add include directory for GLFW
+include_directories(${GLFW_INCLUDE_DIR})
 
 # Create the executable
 add_executable(OpenGL_GLFW_GLAD_Project ${PROJECT_SOURCES} ${GLAD_SOURCES})
 
 # Link the libraries (OpenGL, GLFW)
-target_link_libraries(OpenGL_GLFW_GLAD_Project OpenGL::GL glfw)
+target_link_libraries(OpenGL_GLFW_GLAD_Project OpenGL::GL ${GLFW_LIBRARY})

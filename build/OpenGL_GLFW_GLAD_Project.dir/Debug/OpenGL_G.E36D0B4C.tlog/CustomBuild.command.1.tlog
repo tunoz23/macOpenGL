@@ -1,0 +1,10 @@
+^C:\USERS\TUN\DESKTOP\MACOPENGL1\MACOPENGL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/TUN/Desktop/macopengl1/macOpenGL -BC:/Users/TUN/Desktop/macopengl1/macOpenGL/build --check-stamp-file C:/Users/TUN/Desktop/macopengl1/macOpenGL/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

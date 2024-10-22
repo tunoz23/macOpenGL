@@ -1,0 +1,10 @@
+^C:\USERS\TUN\DESKTOP\MACOPENGL1\MACOPENGL\BUILD\CMAKEFILES\6E4E0F3953796DA3FA1CCAAA0B4CB88C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/TUN/Desktop/macopengl1/macOpenGL -BC:/Users/TUN/Desktop/macopengl1/macOpenGL/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/TUN/Desktop/macopengl1/macOpenGL/build/OpenGL_GLFW_GLAD_Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
